@@ -1,0 +1,7 @@
+﻿  rgbimage.cpp
+C:\Users\jbela\OneDrive\Semester 4\Computergrafik\Praktikum\Blatt 3\CGPrakt3\cgprakt3\src\rgbimage.cpp(73,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\jbela\OneDrive\Semester 4\Computergrafik\Praktikum\Blatt 3\CGPrakt3\cgprakt3\src\rgbimage.cpp(74,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\jbela\OneDrive\Semester 4\Computergrafik\Praktikum\Blatt 3\CGPrakt3\cgprakt3\src\rgbimage.cpp(166,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  vector.cpp
+  Code wird generiert...
+  CGVStudio.vcxproj -> C:\Users\jbela\OneDrive\Semester 4\Computergrafik\Praktikum\Blatt 3\CGPrakt3\cgprakt3\CGVStudio\Debug\CGVStudio.exe
